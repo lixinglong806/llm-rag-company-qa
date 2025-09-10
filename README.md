@@ -6,7 +6,7 @@ An enterprise RAG-based QA system that integrates multi-format policy documents 
 
 The following figure shows the web UI of the project, implemented with **Gradio**.  
 
-⚠️ Note: The current demo corpus is in **Chinese** since no suitable English corpus was available. Once an English corpus is prepared, the UI will also support English. For clarity, the Chinese UI elements have been translated into English in the screenshot below.  
+⚠️ Note: The current demo corpus is in **Chinese** since I have not yet found a suitable English corpus. Once I do, the UI will also support English.. For clarity, the Chinese UI elements have been translated into English in the screenshot below.  
 
 ![](./assets/demo1.png)
 
@@ -56,4 +56,4 @@ http://127.0.0.1:7680/erag
 
 
 
-Now, you have start the program, you can chat and query in chatbot!
+**Now, you have start the program, you can chat and query in chatbot!**
