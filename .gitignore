@@ -1,0 +1,6 @@
+corpus-chunk-emb/data/invest-on-invent-KG.json
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
